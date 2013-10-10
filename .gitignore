@@ -16,9 +16,12 @@
 /tmp
 
 # Ignore other unneeded files.
+
+
 doc/
 *.swp
 *~
 .project
+
 .DS_Store
 
